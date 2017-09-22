@@ -291,7 +291,7 @@ sortByPriority = (a, b) ->
 
 
 attrBinding = (cd, element, value, attrName) ->
-    text = value
+    text = value || ''
     if text.indexOf(alight.utils.pars_start_tag) < 0
         return
 
