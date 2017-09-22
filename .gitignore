@@ -8,7 +8,6 @@
 /src/filter/*.js
 /src/parser/*.js
 /src/*.map
-/bin/
 /tmp/
 /node_modules
 /test2/
